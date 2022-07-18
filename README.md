@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+```
+learning it from (https://www.youtube.com/watch?v=EXHO_Yu8G00&ab_channel=DesignCourse)
+(https://github.com/SortableJS/vue.draggable.next)
+```
